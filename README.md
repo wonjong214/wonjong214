@@ -1,23 +1,4 @@
+# Unique Commit for wonjong214
 
-
-![header](https://capsule-render.vercel.app/api?type=Slice&text=Good%20to%20see%20you%20👋&fontSize=50&desc=I'm%20Wonjong&descAlignY=70&color=afac60&height=300)
-
-### ⚡ My Tech Stacks
-<img src="https://img.shields.io/badge/Flutter-FF7800?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/-AndroidStudio-3CB372?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white"/> 
-
-
-<!--
-**wonjong214/wonjong214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Random data: jjjjjjjjjj
+Date: 2026-07-06
